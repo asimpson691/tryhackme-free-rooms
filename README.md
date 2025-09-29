@@ -58,8 +58,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Intro Rooms
 
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
-- [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
+- [x] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+- [x] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
 - [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
 - [ ] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
